@@ -5,4 +5,4 @@ def Add(s,*a):
         s=p
     return(p)
 x= Add(1,2)
-print(x)
+print("sum of the number;",x)
