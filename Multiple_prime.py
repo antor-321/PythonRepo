@@ -1,6 +1,6 @@
 # Print multiple prime numbers up to a given number N
 
-num = int(input("Enter the limit: "))
+num = int(input("Enter the number:"))
 
 print("Prime numbers up to", num, "are:")
 
